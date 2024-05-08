@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/salah/static/css/main.635ae4c1.css",
+    "main.js": "/salah/static/js/main.dd50a673.js",
+    "static/js/453.1fe901d2.chunk.js": "/salah/static/js/453.1fe901d2.chunk.js",
+    "index.html": "/salah/index.html",
+    "main.635ae4c1.css.map": "/salah/static/css/main.635ae4c1.css.map",
+    "main.dd50a673.js.map": "/salah/static/js/main.dd50a673.js.map",
+    "453.1fe901d2.chunk.js.map": "/salah/static/js/453.1fe901d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.635ae4c1.css",
+    "static/js/main.dd50a673.js"
+  ]
+}
